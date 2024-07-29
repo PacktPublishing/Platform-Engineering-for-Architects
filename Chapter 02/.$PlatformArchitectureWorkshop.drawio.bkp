@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-07-29T09:06:12.675Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="_-8xM0LKMvu0LAULnWPu" version="22.1.2" type="device" pages="3">
+<mxfile host="Electron" modified="2024-07-29T09:01:46.554Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="U47LsE2N-jSqOe5MGAhO" version="22.1.2" type="device" pages="3">
   <diagram name="Start Here" id="qmeNcke84BZHZDu3tO65">
     <mxGraphModel dx="714" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,36 +136,6 @@
         </mxCell>
         <mxCell id="UJ1PAw_ufyLJN9S3D6L_-2" value="&lt;strong&gt;Part 1: Define your Reference Architecture incl. the Capability Plane&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="840" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z_kAdgGbZEmOAgMfHOfV-1" value="&lt;strong&gt;Pre-Conditions&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="280" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="z_kAdgGbZEmOAgMfHOfV-2" value="&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: rgb(26, 26, 26);&quot;&gt;At this point, you should be aware of the purpose of your platform and for what you want to build it. If you don&#39;t have it follow along the book.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: rgb(26, 26, 26);&quot;&gt;Document here your:&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;&lt;li data-list=&quot;bullet&quot;&gt;&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;Principles&lt;/span&gt;&lt;/li&gt;&lt;li data-list=&quot;bullet&quot;&gt;&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt;Purpose (use this &lt;/span&gt;&lt;strong style=&quot;color: rgb(255, 255, 255); background-color: rgb(255, 0, 230);&quot;&gt; &lt;/strong&gt;&lt;a href=&quot;https://miro.com/miroverse/platform-engineering-purpose-canvas-template/?social=copy-link&quot; target=&quot;_blank&quot; style=&quot;color: rgb(255, 255, 255); background-color: rgb(255, 0, 230);&quot;&gt;&lt;strong&gt;template&lt;/strong&gt;&lt;/a&gt;&lt;strong style=&quot;color: rgb(255, 255, 255); background-color: rgb(255, 0, 230);&quot;&gt; &lt;/strong&gt;&lt;span style=&quot;color: rgb(26, 26, 26);&quot;&gt; if you don&#39;t have it done yet)&lt;/span&gt;&lt;/li&gt;&lt;li data-list=&quot;bullet&quot;&gt;Your metrics for success and KPIs&lt;/li&gt;&lt;li data-list=&quot;bullet&quot;&gt;Strategic drivers&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="130" width="280" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="z_kAdgGbZEmOAgMfHOfV-3" value="&lt;strong&gt;Step 1: Status Quo&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="40" y="320" width="240" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="z_kAdgGbZEmOAgMfHOfV-4" value="&lt;strong&gt;Step 2: Fill the Open Components&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="40" y="610" width="280" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="z_kAdgGbZEmOAgMfHOfV-5" value="&lt;strong&gt;Step 3: Reflect the ref. Architecture&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="40" y="790" width="280" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="z_kAdgGbZEmOAgMfHOfV-6" value="&lt;strong&gt;Step 4: Set your Final Target&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="40" y="930" width="240" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="z_kAdgGbZEmOAgMfHOfV-7" value="&lt;p&gt;Starting in a &lt;span style=&quot;background-color: rgb(255, 0, 230);&quot;&gt; &lt;/span&gt;&lt;strong style=&quot;background-color: rgb(255, 0, 230); color: rgb(255, 255, 255);&quot;&gt;brown field&lt;/strong&gt;&lt;span style=&quot;background-color: rgb(255, 0, 230);&quot;&gt; &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt; &lt;/span&gt;we have to see where you are:&lt;/p&gt;&lt;ul&gt;&lt;li data-list=&quot;bullet&quot;&gt;Place the components/technologies in use on the reference architecture&lt;/li&gt;&lt;li data-list=&quot;bullet&quot;&gt;If you have redundancies, place them too and highlight them&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Starting in a &lt;strong style=&quot;background-color: rgb(255, 0, 230); color: rgb(255, 255, 255);&quot;&gt; green field &lt;/strong&gt; often doesn&#39;t mean there aren&#39;t already directions given which you usually can find in the strategic drivers of your corporation:&lt;/p&gt;&lt;ul&gt;&lt;li data-list=&quot;bullet&quot;&gt;Identify and document your given technologies/environments/ providers&lt;/li&gt;&lt;li data-list=&quot;bullet&quot;&gt;Where do you have favors within your organization? Which tools are used somewhere else and you could leverage them?&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="330" width="280" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="z_kAdgGbZEmOAgMfHOfV-8" value="&lt;p&gt;Most likely you will have some boxes without a component. Some of them do not necessarily needs to be filled like a platform orchestrator or IDE.&lt;/p&gt;&lt;p&gt;For sure,&lt;strong style=&quot;color: rgb(255, 255, 255); background-color: rgb(255, 0, 230);&quot;&gt; do not just randomly pick components,&lt;/strong&gt; you have to do some research and analysis.&lt;/p&gt;&lt;p&gt;Take your time for this step. What you can often find talked about is not neccessarily the right choice for you.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="620" width="280" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="z_kAdgGbZEmOAgMfHOfV-9" value="&lt;p&gt;When completely filled out, work over the chosen technology and evaluate them again by:&lt;/p&gt;&lt;ul&gt;&lt;li data-list=&quot;bullet&quot;&gt;Do they play well with each other?&lt;/li&gt;&lt;li data-list=&quot;bullet&quot;&gt;&lt;strong style=&quot;background-color: rgb(255, 0, 230); color: rgb(255, 255, 255);&quot;&gt; Are they independent and have no or as less as possible dependencies? &lt;/strong&gt;&lt;/li&gt;&lt;li data-list=&quot;bullet&quot;&gt;What are their downsides?&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="800" width="280" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="z_kAdgGbZEmOAgMfHOfV-11" value="&lt;p&gt;All done? Set your target:&lt;/p&gt;&lt;ul&gt;&lt;li data-list=&quot;bullet&quot;&gt;&lt;strong style=&quot;color: rgb(255, 255, 255); background-color: rgb(255, 0, 230);&quot;&gt; How does your TVP look like? &lt;/strong&gt;&lt;/li&gt;&lt;li data-list=&quot;bullet&quot;&gt;What are the next components needed to mature from the TVP?&lt;/li&gt;&lt;li data-list=&quot;bullet&quot;&gt;What is your near term final target?&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Make as much copies of the ref. architecture to define the different steps.&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="940" width="280" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
