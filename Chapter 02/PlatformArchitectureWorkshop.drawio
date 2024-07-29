@@ -1,0 +1,59 @@
+<mxfile host="Electron" modified="2024-07-29T08:34:12.975Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="5-kT8l5jySVzmxWuIn0B" version="22.1.2" type="device" pages="3">
+  <diagram name="Start Here" id="qmeNcke84BZHZDu3tO65">
+    <mxGraphModel dx="1026" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sOGfRkinKptev8-2qJ7c-1" value="&lt;h1&gt;Welcome&lt;/h1&gt;&lt;p&gt;However you have found your way to this Miro template, welcome! If something of this template is not 100% understandable to you it might be because it is developed as a companion for our book &lt;strong style=&quot;background-color: rgb(255, 0, 230); color: rgb(255, 255, 255);&quot;&gt;&quot;Platform Engineering for Architects&quot;&lt;/strong&gt;. But, you can use it also without it. Please leave us some feedback, so we can improve the template.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;This Workshop should be followed along your development and ideas for your platform/internal developer platform. The following steps we have to take:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Whom is this for?&lt;/p&gt;&lt;ul&gt;&lt;li data-list=&quot;bullet&quot;&gt;Platform Engineers&lt;/li&gt;&lt;li data-list=&quot;bullet&quot;&gt;Platform Architects&lt;/li&gt;&lt;li data-list=&quot;bullet&quot;&gt;Solution Architects&lt;/li&gt;&lt;li data-list=&quot;bullet&quot;&gt;DevOps Engineers&lt;/li&gt;&lt;li data-list=&quot;bullet&quot;&gt;IT Manager&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="160" width="530" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="sOGfRkinKptev8-2qJ7c-2" value="Gather the input for taking decisions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sOGfRkinKptev8-2qJ7c-3" value="Define your reference architecture" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="303.5" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sOGfRkinKptev8-2qJ7c-4" value="Build your actual architecture (WIP)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sOGfRkinKptev8-2qJ7c-5" value="Incorporate the control flow (WIP)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="657" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sOGfRkinKptev8-2qJ7c-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="258" y="369.5" as="sourcePoint" />
+            <mxPoint x="298" y="369.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sOGfRkinKptev8-2qJ7c-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="433" y="370.5" as="sourcePoint" />
+            <mxPoint x="473" y="370.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sOGfRkinKptev8-2qJ7c-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="369.5" as="sourcePoint" />
+            <mxPoint x="650" y="369.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="48L6o3DG6qoscYuIvbXD" name="Part 0: Collect your Compass">
+    <mxGraphModel dx="1026" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="psiCBtRCJANv6VeN_iZT" name="Part 1: Define your Reference Architecture incl. the Capability Plane">
+    <mxGraphModel dx="1026" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
