@@ -1,0 +1,30 @@
+apiVersion: templates.gatekeeper.sh/v1
+kind: ConstraintTemplate
+metadata:
+  name: k8spodpriority
+spec:
+  crd:
+    spec:
+      names:
+        kind: K8sPodPriority
+      validation:
+        # Schema for the `parameters` field
+        openAPIV3Schema:
+          type: object
+          properties:
+            PriorityClass:
+              type: array
+              items:
+                type: string
+  targets:
+    - target: admission.k8s.gatekeeper.sh
+      rego: |
+        package k8spodpriority
+
+        violation[{"msg": msg, "details": {"incorrect_priority_class": PriorityClass}}] {
+          provided := {PriorityClassl | input.review.object.metadata.PriorityClass[PriorityClass]}
+          required := {PriorityClass | PriorityClass := input.parameters.PriorityClass[_]}
+          missing := required - provided
+          count(missing) > 0
+          msg := sprintf("invalid Pod Priority", [incorrect_priority_class])
+        }
