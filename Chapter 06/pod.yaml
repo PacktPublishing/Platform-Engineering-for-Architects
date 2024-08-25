@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: my-app
+  name: my-app-nginx
   labels:
     env: prod
 spec:
@@ -13,8 +13,8 @@ spec:
        requests:
           memory: "100Mi"
           cpu: "2"  
-      name: my-app
-      image: my-app
+      name: my-app-nginx
+      image: docker-registry.nginx.com/nap-dos/app_protect_dos_arb:1.1.1
       imagePullPolicy: IfNotPresent
   nodeSelector:
     reserved: reserved
